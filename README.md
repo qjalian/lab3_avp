@@ -1,5 +1,6 @@
 # lab3_avp
 Веб-игра крестики-нолики для двух пользователей. Реализован вывод сообщения о выигрыше и выделение выигрышной стратегии цветом. Доступен сброс игры нажатием кнопки Restart. Добавлен счетчик баллов для определения победителя. Добавлена классная анимация при нажатии кнопки Restart и обновлении игрового поля.
-![image](https://github.com/qjalian/lab3_avp/assets/89934513/9a6d3d61-5212-4c70-9036-7c9c10aa29cc)
-![image](https://github.com/qjalian/lab3_avp/assets/89934513/cd862aa0-9d1b-425d-ac2b-deadc7a366c5)
-![image](https://github.com/qjalian/lab3_avp/assets/89934513/21406885-4d25-4057-9325-590883069a67)
+![image](https://github.com/qjalian/lab3_avp/assets/89934513/ead5a0b2-0994-4502-aeff-8ca1fc8351c3)
+![image](https://github.com/qjalian/lab3_avp/assets/89934513/de160c14-72a8-40fe-b9e4-1cb015699c8b)
+![image](https://github.com/qjalian/lab3_avp/assets/89934513/2da8c753-196f-4361-9f44-725b3ebfb366)
+
